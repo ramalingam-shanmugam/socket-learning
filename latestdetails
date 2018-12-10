@@ -1,0 +1,151 @@
+RAMALINGAM SHANMUGAM
+248-854-8607
+ramalingam_gh@yahoo.com
+
+
+Professional Summary
+
+*Seasoned IT professional with 16+ years of experience in delivering multi- industry enterprise solutions 
+*Proven global leadership in design, build, deploy, and deliver business initiatives with IBM, Thompson Reuters and StateFarm
+*Ability to recruit and nurture talent towards enabling a successful solution delivery practice
+•	Extensive experience in leading the development and enhancement of web based multi-tier client server applications using Java, J2EE and SOA technologies.
+•	Experience in development of RESTful and SOAP web services using CXF-RS, Jersey, Spring WS, JAX-WS and JAX-RPC.
+•	Strong knowledge in various Cloud types (IaaS, PaaS) & experienced in various internal Cloud technologies like CMP (Cloud Management, Portal), AWS & PCF.
+•	Experience in SQL using Microsoft SQL Server, IBM DB2, PostGres.
+•	Experience in using persistence frameworks Hibernate 3, pure Query, iBatis, eclipse Link and JPA.
+•	Experienced using Java/J2EE patterns Front Controller, Session, Façade, DAO, Service Locator, Transfer Object, Factory Method and Singleton.
+•	Experience in design and development of various Spring Technologies like Spring Boot, Restful web services in Spring, Spring MVC, and Spring JDBC.
+•	Hands-on experience in ESB frameworks such as Mule and Data power.
+•	Experience in test driven development using the frameworks Junit and mocking frameworks Easy Mock & Mockito.
+•	Hands-on experience in web technologies HTML5, CSS3, JavaScript, AJAX, jQuery, JSP, XSLT, Xpath and XML.
+•	Hands-on Experience in Responsive Web-design using Bootstrap.
+•	Practical experience in using IDE tools such as RSA, Netbeans, and Spring Tool Suite and application servers Tomcat & WebSphere Application Server (WAS 8.5).
+•	Experience in Continuous Integration (CI) & Continuous Deployment (CD Pipeline) using Maven and Jenkins.
+•	Experience in using code coverage tool SonarQube with JaCoCo  plugin
+•	Hands-on experience in version controlling tools GIT, SVN, ClearCase and VSS.
+•	Hands-on experience in using logging frameworks log4j and slf4j.
+•	Worked with clients from various domains such as Insurance, Banking & Financial.
+•	Ability to work effectively in the Linux environment. 
+•	Worked with multiple vendors including but not limited to Cisco, IBM, Pega Robotics (earlier Openspan) etc.
+•	Experienced in delivering design artifacts to offshore team and provided guidance till delivery to various teams.
+•	Implemented new solutions with emerging technologies for resolving issues such as inefficiency, performance bottleneck in distributed applications.
+•	Provided solutions to automate testing for web services based application.
+•	Mentored team member to learn and use emerging technologies and domain knowledge. 
+•	Conducted cross team training on software technologies.
+•	Strong analytical thinking and problem solving skills backed by good communication skill. 
+•	Keeping abreast of myself on emerging technologies.
+Technical Skills
+Professional Work Experience:
+
+State Farm Insurance, USA                         April ’14 - till Date
+Java Technical Lead
+
+Product: Call Center QUEUE Manager & Telephony Services
+
+Call Center Queue Manager [previously known as SFCTI – State Farm Compute Telephony Integration] & Telephony services is a multi-phase Agile migration project which handles call queuing and call routing with appropriate peripheral gateway and directory management services. This application was originally developed in .NET platform as a desktop application which is being migrated as a Java web application in conjunction with Cisco’s APIs & tightly coupled with Cisco’s Unified Contact Center Enterprise (UCCE). Queue Manager also handles call routing by integrating with more than ten downstream applications/services. Queue Manager was built using leading edge technologies including but not limited to Java Websocket, Cisco CIL API, and Ember.js, RABBIT MQ, Gemfire/eCache and restful web services, Spring Injection, Spring JDBC and content management services using Tridion.
+
+Responsibilities:
+•	Identify the business requirements & convert into Sprint Stories.
+•	Review stories from Sprint backlog and prioritize for the implementation plan.
+•	Research Java/HTML Web Sockets & prove the concept that will work with Ember.js Single Page Applications.
+•	Prepare high level application distribution diagram & work with architecture team for review/approval.
+•	Key point of contact to enhance the application features integrating with Cisco APIs & resolve any issues working with Cisco partners through TAC case.
+•	Validate any defect fixes from Cisco APIs, maintain the version history, upload the version in Artifactory repository & incorporate the fix in suitable sprint.
+•	Acted as a STO(Server Type Owner) & responsible for building 300+ ICS virtual servers(Linux) using CRMT (Cloud Resource Management Tool) & configuring various Tomcat/Apache/SSL settings using Puppet automation.
+•	QM being a High availability product, ensure the performance of the product is intact by conducting performance/load testing & make sure the TPS, Throughput & memory utilization are within the stipulated range.
+•	Setup GIT Repository, Continuous Integration & Delivery (CI & CD) using Jenkins & pipeline plugins. 
+•	Responsible to develop & maintain automated application deployment tool which was developed in Node.js, Python to simplify the Queue Manager product deployment in 300+ Linux/Tomcat Virtual servers.
+•	Defined application user roles and policies in LDAP server
+•	Consumed services to read the data from java web page for special users using role based authorization
+•	Collaborated with multiple teams including offshore developers, quality analyst and onsite business partners
+•	Managed GIT [Source code Repository],built and deployed source codes to various environments
+•	Reviewed & coordinated QA results using TRAC
+•	Involved in UAT testing with Business partners.
+
+Environment: Java 1.7, Spring 4.2 (Core, MVC,  JDBC), jQuery, HTML5, CSS3, RESTFul, SoapUI (Jax-RPC), Spring Tool Suite(STS), VMware vFabric TC server, EJB 2.0, Websphere Application Server 8.5, PostGres, Jenkins, SonarQube, Maven 2, SVN/GIT, SoapUI, Tridion, GemFire/eCache, Node.js, Python, Electron.
+
+
+
+
+HTC Global Services Inc.,
+StateFarm                              Jan ’08 - Mar ’14
+Senior Developer
+
+Project: Response Center Services(RCS) - CRC, AHQB, Agent Locator & Agent Details
+Response Center Services hosts variety of call center applications which helps the call center agents(CCA) to serve customers outside of Agent hours & on weekends as an extension of the agent’s office. Key applications developed & supported under this umbrella effort is as follows:
+CRC Online - Customer Response Center
+- Facilitate a screen pop to greet customer upon receiving a call.
+- Helps the representative to pull the customer info(using CIMS - Customer Information       
+Management System) & to look through customer’s policy information.
+- Assist the representatives to update customer info, policy changes, provide a road side 
+assistance, send a proof of insurance(both via Email/Fax).
+- Helps to share the messages to Agents for further follow-up with customer(Activity 
+Management).
+- Assist customers to log Auto/Fire claims.
+
+AHQB Online - After Hours Quote & Bind
+- Supports Enterprise growth and retention by offering customers the option to receive Quotes, 
+purchase a policy on a variety of line of businesses(Auto, Motorcycle, RV, Boats, Renters & 
+Homeowners policies).
+- Integrated with a vendor application namely Internet Lead Aggregator
+- Facilitate agents to automatically screen capture inputs & populate in multiple screens to avoid 
+duplicate user entries.
+
+Agent Locator & Agent Details
+- This application helps representative to search for Agents by various search criteria like Alias,  
+state-Agent Code, First/Last name, Zip code & Area code.
+- Also provides various information about agent’s participating status, Address & location, list of 
+Services that they are authorized.
+Responsibilities:
+•	Developed the J2EE SOA application under Agile methodology.
+•	Responsible to build Struts MVC components for JAX-RPC web services.
+•	Used Spring JPA with Hibernate as ORM provider and JDBC for accessing data by querying Oracle database Views and Tables.
+•	Created and injected Spring services, controllers and DAO components using Spring IOC.
+•	Used Spring AOP for error handling, auditing functionalities.
+•	Developed Spring Batch component for scheduled batch functionality.
+•	Used Spring Security for authentication and authorization for web-services.
+•	Created database Views, Stored Procedures and Stored Functions for retrieving and processing data.
+•	Used Maven for build and Jenkins for system integration.
+
+Environment: Java 1.7, Spring 3.2.1 (Core, MVC, batch, Security, JDBC, ORM), RESTFul, Hibernate 3.6, Jboss 6.0, Oracle 10g, Jenkins, Maven 2, CVS, SoapUI, HP QC
+
+
+
+
+
+HTC Global Services Inc.,
+Under contract to State Farm, Bloomington, IL             May ’06 – April ‘08
+.NET Technical Lead
+
+TCIM (Test Center Information Management) 
+TCIM is an online asset management tool used by the Test Center to meet business partner testing needs. Test environment administration, delivery, management, data, metrics, orders and customer interactions are handled/routed/administered via this system. TCIM provides a way for work efforts to view information related to their test environments, including existing applications
+
+Responsibilities:
+•	Designed RESTful web services based architecture for service search functionality and enhancement to existing Service APIs.
+•	Used CXF-RS for RestFul web-services implementation.
+•	Integration of service layers such as Authentication, Validation, business logic, Exception handling and Response construction done using camel framework.
+•	Applied Spring AOP for common functionalities such as Authentication and Logging.
+•	Used Spring Hibernate for database access functionalities including search and persistence.
+•	Developed caching functionality with Spring Cacheable interface and EhCache implementation.
+•	Improved application performance and reduce coding by using Dozer bean mapping.
+•	Mentored team members on getting required business and technical knowledge.
+•	Conduced team meetings to discuss project status, issues and send report to senior management.
+•	Done code review, verifying fulfillment of  requirements  and performance monitoring
+
+Environment: Java 1.7, Spring 3.2.5, Hibernate 3, WAS 7, DB2, RestFul, CXF-RS, Dozer, Maven 2, SVN, SoapUI, Xpath, Groovy
+
+Previous Experience summary:
+
+Reuters India Pvt Ltd., Bangalore, India
+IBM Global services, Bangalore, India/ Stockholm, Sweden
+Arkin systems, Chennai, India
+
+
+Educational Qualification  
+•	Master of Computer Applications, Kumaraguru College of Engineering, Coimbatore, India.
+•	Bachelors of Computer Science [Gold Medalist]
+Recognitions
+•	IBM - Best Employee
+•	StateFarm- Multiple
+•	HTC Global Services- Best Employee, 10 yr Recognition
+
